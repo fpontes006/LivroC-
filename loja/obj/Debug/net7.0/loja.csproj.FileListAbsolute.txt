@@ -1,0 +1,15 @@
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\bin\Debug\net7.0\loja.exe
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\bin\Debug\net7.0\loja.deps.json
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\bin\Debug\net7.0\loja.runtimeconfig.json
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\bin\Debug\net7.0\loja.dll
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\bin\Debug\net7.0\loja.pdb
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\loja.csproj.AssemblyReference.cache
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\loja.AssemblyInfoInputs.cache
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\loja.AssemblyInfo.cs
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\loja.csproj.CoreCompileInputs.cache
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\loja.dll
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\refint\loja.dll
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\loja.pdb
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\loja.genruntimeconfig.cache
+C:\Users\FH191\Desktop\Felipe\YouTube\LivroC#\loja\obj\Debug\net7.0\ref\loja.dll
